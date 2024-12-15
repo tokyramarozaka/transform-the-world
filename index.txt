@@ -1,0 +1,6 @@
+Quelques propritétés CSS sympas : 
+- text-shadow ; 
+- box-shadow ; 
+- display : grid ; 
+- aspect-ratio : 1/3; 
+- transform : scale | rotate | translate | skew
